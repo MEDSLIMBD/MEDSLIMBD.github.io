@@ -1,0 +1,26 @@
+body {
+	margin: 10px 80px;
+
+}
+
+nav {
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-between;
+}
+nav h1{
+  font-family: 'Crimson Text', serif;
+  font-size: 30px;
+}
+nav .onglets{
+  margin-top: 35px;
+}
+nav .onglets a{
+  text-decoration: none;
+  color:#7f7e7e;
+  margin-right: 10px;
+}
+
+.articles {
+  
+}
